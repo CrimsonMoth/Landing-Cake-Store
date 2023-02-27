@@ -1,0 +1,18 @@
+body {
+  background-color: #ffe2b0;
+}
+
+header {
+  text-align: center;
+}
+
+ul {
+  text-align: center;
+  list-style: none;
+}
+
+a {
+  font-size: 18px;
+  text-decoration: none;
+  color: black;
+}
