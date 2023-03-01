@@ -25,6 +25,15 @@ a {
   margin-top: 50px;
 }
 
+a:hover {
+  cursor: pointer;
+  color: red;
+}
+
+li:last-child {
+  margin-right: 0px;
+}
+
 nav {
   margin-bottom: 20px;
 }
