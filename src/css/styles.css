@@ -37,3 +37,11 @@ li:last-child {
 nav {
   margin-bottom: 20px;
 }
+
+.section-about {
+  height: 640px;
+  background: url(../img/background\ pic.jpg) center/cover no-repeat;
+  /* background-image: url(../img/background\ pic.jpg); */
+  /* background-position: center;
+  background-size: cover; */
+}
