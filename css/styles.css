@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   background-color: #ffe2b0;
 }
@@ -44,6 +48,8 @@ nav {
   /* background-image: url(../img/background\ pic.jpg); */
   /* background-position: center;
   background-size: cover; */
+  position: relative;
+  text-align: center;
 }
 
 .sa_block {
@@ -54,4 +60,15 @@ nav {
     rgba(244, 213, 178, 0.8) 0%,
     rgba(234, 156, 65, 0.8) 100%
   );
+  position: absolute;
+  left: 730px;
+  top: 349px;
+  padding-top: 15px;
+}
+
+.sa_border {
+  width: 360px;
+  height: 160px;
+  border: 1px solid black;
+  margin: 0 auto;
 }
