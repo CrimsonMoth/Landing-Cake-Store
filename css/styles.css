@@ -71,4 +71,20 @@ nav {
   height: 160px;
   border: 1px solid black;
   margin: 0 auto;
+  padding: 17px 0 0 28px;
+  text-align: left;
+}
+
+.sa_title {
+  margin: 0;
+  font-family: "Philosopher", sans-serif;
+  font-size: 36px;
+  margin-bottom: 9px;
+}
+
+.sa_text {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+  font-family: ;
 }
