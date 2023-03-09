@@ -93,6 +93,7 @@ nav {
 .sd_icon-box {
   text-align: center;
   /* letter-spacing: 76px; */
+  margin-bottom: 20px;
 }
 
 .sd_icon-box img {
@@ -101,4 +102,22 @@ nav {
 
 .sd_icon-box img:last-child {
   margin-right: 0;
+}
+
+.sd_title {
+  font-size: 96px;
+  margin: 0;
+  text-align: center;
+  font-family: "Philosopher", sans-serif;
+}
+
+.red {
+  color: #f15b40;
+}
+
+.sd_text {
+  font-size: 18px;
+  margin: 0 auto;
+  width: 1000px;
+  text-align: center;
 }
