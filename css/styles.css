@@ -49,7 +49,7 @@ nav {
   /* background-position: center;
   background-size: cover; */
   position: relative;
-  text-align: center;
+  margin-bottom: 20px;
 }
 
 .sa_block {
@@ -61,8 +61,9 @@ nav {
     rgba(234, 156, 65, 0.8) 100%
   );
   position: absolute;
-  left: 730px;
-  top: 349px;
+  left: 50%;
+  top: 54%;
+  text-align: center;
   padding-top: 15px;
 }
 
@@ -87,4 +88,17 @@ nav {
   font-family: "Roboto", sans-serif;
   font-size: 12px;
   font-family: ;
+}
+
+.sd_icon-box {
+  text-align: center;
+  /* letter-spacing: 76px; */
+}
+
+.sd_icon-box img {
+  margin-right: 76px;
+}
+
+.sd_icon-box img:last-child {
+  margin-right: 0;
 }
