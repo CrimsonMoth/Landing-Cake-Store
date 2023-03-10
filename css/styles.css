@@ -87,7 +87,10 @@ nav {
   margin: 0;
   font-family: "Roboto", sans-serif;
   font-size: 12px;
-  font-family: ;
+}
+
+.section-description {
+  margin: 20px;
 }
 
 .sd_icon-box {
@@ -105,10 +108,11 @@ nav {
 }
 
 .sd_title {
-  font-size: 96px;
+  font-size: 70px;
   margin: 0;
   text-align: center;
   font-family: "Philosopher", sans-serif;
+  margin-bottom: 10px;
 }
 
 .red {
@@ -120,4 +124,19 @@ nav {
   margin: 0 auto;
   width: 1000px;
   text-align: center;
+}
+
+.map_title {
+  margin-bottom: 20px;
+  text-align: center;
+  font-size: 36px;
+}
+
+iframe {
+  display: block;
+  margin: 0 auto;
+}
+
+.map {
+  margin-bottom: 20px;
 }
