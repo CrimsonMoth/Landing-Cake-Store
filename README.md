@@ -1,4 +1,4 @@
-# Landing-Cake-Store.
+# Landing-Cake-Store. Finished
 Test project.
 in progress.
 It's almost finished.
